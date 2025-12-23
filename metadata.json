@@ -1,0 +1,7 @@
+{
+  "name": "Punitz Creative Ad Ai",
+  "description": "A professional-grade commercial image generation suite for agencies and brands, providing a high-end wizard-driven workflow for product and model photography.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
